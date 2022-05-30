@@ -73,5 +73,4 @@ What is the official Holberton Python coding style and how to check your code wi
 
 ---
 
-## Author
-* **Aliazar Deneke** - [kai-dg](https://github.com/aliazardeneke)
+
