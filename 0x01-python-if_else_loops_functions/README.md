@@ -91,5 +91,4 @@ What are the arithmetic operators and how to use them
 
 ---
 
-## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
+
